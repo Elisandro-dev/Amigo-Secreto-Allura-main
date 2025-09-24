@@ -30,7 +30,7 @@ Ou você pode simplesmente abrir o seu terminal do VScode .
 
 Copie o comando que está entre aspas logo abaixo e depois cole no seu terminal do VScode:
 
-" git clone https://github.com/Eliabe645/Amigo-Secreto-Allura.git "
+" git clone https://github.com/Elisandro-dev/Amigo-Secreto-Allura-main "
 
 
 
